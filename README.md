@@ -33,3 +33,5 @@ select count(*),left(a, 1) from table group by left(a, 1)
 SQL语句与正则表达式
 http://www.cnblogs.com/renzaijianghu/p/5666750.html
 
+书本标题聚类分析的一个教程 
+https://ad1m.github.io/Book_Title_Clustering/
