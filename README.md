@@ -37,3 +37,12 @@ http://www.cnblogs.com/renzaijianghu/p/5666750.html
 20：40啊啊啊啊啊啊实在是太崩溃了 我需要自动聚类!!!!
 书本标题聚类分析的一个教程 
 https://ad1m.github.io/Book_Title_Clustering/
+用Python给文本创立向量空间模型的教程
+http://www.jb51.net/article/64695.htm
+VSM的实现
+https://github.com/gdoggg2032/Course/tree/eaed7c22084fa4406299ae9d8d95697f2943ba3a/2015spring/DSP/DSP_final/VSM
+
+
+所有想到的东西：
+1 sql 按首字母分类 groupby分组 树状结构 正则 like 
+2 文本聚类 向量空间模型 TF—IDF 余弦求相似度 k-means是无监督学习聚类算法  语言：Python 结果发现矩阵过于稀疏 通过PCA（主成分分析）降维
