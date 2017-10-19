@@ -21,3 +21,10 @@ https://wenku.baidu.com/view/5057af96dd88d0d233d46aba.html
 1.把文本导入excel，或者进一步导入mysql
 2.写语句进行分类或者排序
 3.进行匹配
+
+sql中分组的方法
+http://www.studyofnet.com/news/247.html
+python正则
+https://docs.python.org/2.7/library/re.html
+sql中构建树状结构的方法
+http://www.cnblogs.com/zplutor/archive/2009/07/31/1536146.html
