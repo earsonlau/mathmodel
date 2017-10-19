@@ -19,7 +19,7 @@ https://wenku.baidu.com/view/5057af96dd88d0d233d46aba.html
 
 过程：
 1.把文本导入excel，或者进一步导入mysql
-2.写语句进行分类或者排序
+2.导入后按首字母排序，然后用 group by进行分组，可以分成26组。
 3.进行匹配
 
 sql中分组的方法
@@ -28,3 +28,8 @@ python正则
 https://docs.python.org/2.7/library/re.html
 sql中构建树状结构的方法
 http://www.cnblogs.com/zplutor/archive/2009/07/31/1536146.html
+按首字母分组的语句
+select count(*),left(a, 1) from table group by left(a, 1)
+SQL语句与正则表达式
+http://www.cnblogs.com/renzaijianghu/p/5666750.html
+
