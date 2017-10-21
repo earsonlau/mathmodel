@@ -46,3 +46,6 @@ https://github.com/gdoggg2032/Course/tree/eaed7c22084fa4406299ae9d8d95697f2943ba
 所有想到的东西：
 1 sql 按首字母分类 groupby分组 树状结构 正则 like 
 2 文本聚类 向量空间模型 TF—IDF 余弦求相似度 k-means是无监督学习聚类算法  语言：Python 结果发现矩阵过于稀疏 通过PCA（主成分分析）降维
+
+
+https://jingyan.baidu.com/article/3ea51489fcfaa452e61bba18.html
